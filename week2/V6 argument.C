@@ -93,7 +93,7 @@ int main(int argc, string argv[]){
 int main(int argc, string argv[]){
     if(argc != 2){
         printf("missing command line argument\n");
-        return 1;                          😲                           ==>                  fi had lhala ta ra matha9a9ch had chart dak chi 3lach kamat hatl return 0 ; 
+        return 1;                       //   😲                           ==>                  fi had lhala ta ra matha9a9ch had chart dak chi 3lach kamat hatl return 0 ; 
     }
     printf("hello: %s\n",argv[1]);
     return 0;
