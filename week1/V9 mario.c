@@ -1,5 +1,5 @@
 
-Method super mario:
+// Method super mario:
 
 #include <stdio.h>
 #include <cs50.h>
@@ -21,7 +21,7 @@ int main(void){
 }
 
 
-Method loop do  while:
+// Method loop do  while:
 
 
 #include <stdio.h>
@@ -44,7 +44,7 @@ int main(void){
 }
 
 
-do while: loop  Method:
+// do while: loop  Method:
 
 
 #include <stdio.h>
