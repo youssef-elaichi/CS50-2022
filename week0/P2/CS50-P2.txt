@@ -1,0 +1,6 @@
+unicode = 32 bit 16 bitf
+
+RGB(الألوان)=   Red:200  Green:100  Blue:40  هاته  ألوان تلاتة تعطيك أي درجة و أية لون تريد 
+ex: in css    body{
+                  background: red rgb(255,0,0);
+}

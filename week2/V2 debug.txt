@@ -1,0 +1,25 @@
+1. santaxes errors:
+
+help50 make test<= name of the file
+
+2.logique errors:
+
+dont forgate the red point:
+
+make test<= name of the file
+
+debug50 ./test <= name of the file
+
+3.logique errores:
+
+#include <stdio.h>
+#include<cs50.h>
+
+int main(void){
+for(int x= 0 ; x< 3 ; x++){
+printf("x is %i \n");
+printf("#\n");
+}
+}
+
+

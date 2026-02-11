@@ -1,0 +1,4 @@
+preprocessing  =>   #include < ... >
+compling    =>   c  =>  language close to pc tronzistre 01
+assembling  =>  language close to pc tronzistre 01   =>   language de pc bit 01 
+linking   =>  hello.c   cs50.c   stdio.c
